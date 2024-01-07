@@ -1,1 +1,1 @@
-A React app to demonstrate the use of React.cloneElement and React.Children.map.
+A React app to demonstrate the use of React.cloneElement and React.Children.map. This is a simple page to demonstrate a radio button group custom component. The Submit button does not work on purpose.
